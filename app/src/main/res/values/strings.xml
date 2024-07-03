@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tippy</string>
+    <string name="base_amount_hint">Bill Amount</string>
+    <string name="tv_base_label">Base</string>
+    <string name="tv_footer">🪙itipcalculator🪙</string>
+    <string name="tv_tip_label">Tip</string>
+    <string name="tv_total_amt_label">Total</string>
+</resources>
